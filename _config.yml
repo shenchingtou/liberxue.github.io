@@ -1,10 +1,10 @@
 # ----------- CONFIGURABLE START -----------
-title:            "Blog"
-description:      "Blog"
-url:              https://shengchingtou.github.io # 域名
+title:            "LiberXue|FullStack|独立开发者|jekyll blog|GitHub blog"
+description:      "Full Stack独立开发者|欢迎来到 LiberXue「角落」侃侃理想、谈谈人生、敲敲代码。"
+url:              https://liberxue.github.io # 域名
 signoff:          "LiberXue" # Your name
-facebook_appid:   #
-google_analytics: #UA-101222464-1
+facebook_appid:   #liberxue
+google_analytics: UA-101222464-1
 share:            true 
 # 分页
 paginate: 15
@@ -13,22 +13,22 @@ gems: [jekyll-paginate]
 links:
   - name:         Home
     url:          /
-    external:     true
+    external:     false
   - name:         Book
     url:          /book
-    external:     true
+    external:     false
   - name:         Random
     url:          /road
-    external:     true
+    external:     false
   - name:         Archives
     url:          /archives
-    external:     true
+    external:     false
   - name:         Tags
     url:          /tags
-    external:     true
+    external:     false
   - name:         About
     url:          /about
-    external:     true
+    external:     false
 # ------------ CONFIGURABLE END ------------
 
 #permalink:        /:categories/:title.html
