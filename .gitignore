@@ -2,3 +2,11 @@
 _site/
 .vscode/
 _site/feed.xml
+_site/about.html
+_site/archives/index.html
+_site/book/index.html
+_site/feed.xml
+_site/index.html
+_site/road/index.html
+_site/search/cb-search.json
+_site/tags/index.html
