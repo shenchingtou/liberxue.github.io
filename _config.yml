@@ -1,10 +1,10 @@
 # ----------- CONFIGURABLE START -----------
 title:            "Pride Polyphony"
 description:      "A space for people to hear LGBTQ solidarity voices around the world"
-url:              https://shenchingtou.github.io 
+url:              https://shenchingtou.github.io/polyphony_jekyll
 signoff:          "Pride Polyphony" 
 facebook_appid:   #none
-google_analytics: UA-101222464-1
+google_analytics: #
 share:            true 
 # 分页
 paginate: 15
