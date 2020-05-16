@@ -3,7 +3,7 @@ layout: blog
 istop: true
 title: "Ruby - Teacher"
 background-image: /assets/images/ruby-teacher.jpg
-date:  2020-05-26
+date:  2020-05-16
 category: Canada
 tags:
 - 中文
