@@ -12,7 +12,7 @@
 <body class="bg-grey" gtools_scp_screen_capture_injected="true"><div id="MathJax_Message" style="display: none;"></div>
 <header id="header" class="header bg-white">
     <div class="navbar-container">
-      <a href="/" title="{{  site.title }}" class="navbar-logo"> <img src="{{ site.url }}/style/images/rainbow_sheep.gif" alt="{{ site.title }}"> </a>
+      <a href="/" title="{{  site.title }}" class="navbar-logo"> <img src="/style/images/rainbow_sheep.gif" alt="{{ site.title }}"> </a>
         <div class="navbar-menu">
            {% for link in site.links %}             
             <a href="{{ link.url }}"  title="访问 {{  link.name }}" data-hover="{{link.name}}">{{ link.name }}</a>
@@ -22,7 +22,7 @@
             <span class="icon-search"></span>
             <form method="post" action="/404.html" role="search">
                 <span class="search-box">
-         <input type="text" class="input" id="cb-search-content" required="true" placeholder="标题 标签..." maxlength="30" autocomplete="off">
+         <input type="text" class="input" id="cb-search-content" required="true" placeholder="Type your search" maxlength="30" autocomplete="on">
                 </span>
             </form>
         </div>
@@ -52,7 +52,6 @@
         <div class="markdown-body">
           {{ content }}
         </div>
-        {% if is_post %}{% include signoff.html %}{% endif %}
       </main>
       {% if is_post %}{% include pagination.html %}{% endif %}
     </div>
