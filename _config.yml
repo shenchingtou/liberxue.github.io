@@ -20,13 +20,16 @@ links:
   - name:         Tags
     url:          /tags
     external:     false
+  - name:         About
+    url:          /about
+    external:     false
   - name:         Submit
     url:          /submit
     external:     false
 # ------------ CONFIGURABLE END ------------
 
 permalink:        /:categories/:title.html
-permalink: /:year/:month/:title.html
+permalink: /:year/:title.html
 defaults:
   - values:
       layout: "default"
