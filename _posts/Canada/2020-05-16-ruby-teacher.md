@@ -15,4 +15,4 @@ tags:
 
 
 
-<iframe title="ruby teacher" height="122" width="100%" style="border: none;" scrolling="no" data-name="pb-iframe-player" src="https://www.podbean.com/media/player/8spqh-dca22b?from=yiiadmin&download=1&version=1&skin=1&btn-skin=107&auto=0&download=1&pbad=1"></iframe>
+<iframe title="ruby teacher" height="400" width="400" style="border: none;" scrolling="no" data-name="pb-iframe-player" src="https://www.podbean.com/media/player/8spqh-dca22b?from=yiiadmin&download=1&version=1&vjs=1&skin=1&auto=0&download=1&pbad=1"></iframe>
