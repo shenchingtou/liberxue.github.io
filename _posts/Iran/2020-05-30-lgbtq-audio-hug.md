@@ -9,6 +9,9 @@ tags:
 - Chinese
 - 日本語
 - 한국어
+- હું તને પ્રેમ કરું છુ
+- ئائىلە
+- طعام
 ---
 
 # Please record a 10-60 second message
