@@ -10,7 +10,7 @@ description: "Click on tags for langauges, topics, topics, or types of audio you
 			 						  <div class="post-tags">
   {% for item in (0..site.tags.size)  %}{% unless forloop.last %}
     {% capture this_word %}{{ tags_list[item] | strip_newlines }}{% endcapture %}
-			<a href="#{{ this_word }}">{{ this_word }} <span>({{ site.tags[this_word].size }})个</span>
+			<a href="#{{ this_word }}">{{ this_word }} <span>({{ site.tags[this_word].size }})</span>
 								</a>
 		{% endunless %}{% endfor %}					
 		</div>	
@@ -33,7 +33,7 @@ description: "Click on tags for langauges, topics, topics, or types of audio you
 							</div>
 							<div class="item-meta clearfix">
 								<div class="item-meta-date">
-								<a href="/archives#{{ post.date | date: "%Y"}}" data-hover="{{ post.date | date: "%F %H:%M:%S "}}">	{{ post.date | date: "%F %H:%M:%S "}}</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="/archives#{{ post.date | date: "%Y"}}" data-hover="{{ post.category }}">{{ post.category }}</a>   
+								<a href="/archives#{{ post.date | date: "%Y"}}" data-hover="{{ post.date | date: "%F %H "}}">	{{ post.date | date: "%F %H "}}</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="/archives#{{ post.date | date: "%Y"}}" data-hover="{{ post.category }}">{{ post.category }}</a>   
 								</div>
 							</div>
 						</div>
