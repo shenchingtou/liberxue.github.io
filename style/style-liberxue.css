@@ -278,7 +278,6 @@ input:-ms-input-placeholder, textarea:-ms-input-placeholder {
     color: #5f5f5f;
 }
 
-
 /* ==========================================================================
    #public
    ========================================================================== */
@@ -800,7 +799,7 @@ input:-ms-input-placeholder, textarea:-ms-input-placeholder {
     border-radius: .6rem;
 }
 
-.slant-title {
+.liberxue-title {
     background: rgba(227, 234, 241, 0.3);
     font-weight: 200;
     padding: 4px 13px;
@@ -1850,25 +1849,7 @@ pre code::after {
 /* ==========================================================================
    #footer
    ========================================================================== */
-
-footer {
-    font-family: -apple-system, SF UI Text, Arial, PingFang SC, Hiragino Sans GB, Microsoft YaHei, WenQuanYi Micro Hei, sans-serif;
-    font-size: 14px;
-    line-height: 1.8;
-    margin: 0 auto;
-    color: #313131;
-    text-rendering: geometricPrecision;
-    -webkit-font-smoothing: antialiased;
-    -webkit-user-select: none;
-    -ms-user-select: none;
-    -moz-user-select: none;
-    -khtml-user-select: none;
-    user-select: none;
-    -moz-osx-font-smoothing: grayscale;
-}
-
 .footer {
-    font-family: -apple-system, SF UI Text, Arial, PingFang SC, Hiragino Sans GB, Microsoft YaHei, WenQuanYi Micro Hei, sans-serif;
     position: relative;
     z-index: 1;
     margin-top: 0;
@@ -1877,13 +1858,11 @@ footer {
 }
 
 .footer-social {
-    font-family: -apple-system, SF UI Text, Arial, PingFang SC, Hiragino Sans GB, Microsoft YaHei, WenQuanYi Micro Hei, sans-serif;
     border-bottom: 1px solid rgba(184, 197, 214, .2);
     box-shadow: 0 -2px 8px 0 rgba(239, 241, 243, 0.59);
 }
 
 .footer-social .footer-container {
-font-family: -apple-system, SF UI Text, Arial, PingFang SC, Hiragino Sans GB, Microsoft YaHei, WenQuanYi Micro Hei, sans-serif;
     max-width: 940px;
     margin: 0 auto;
 }
@@ -1903,7 +1882,6 @@ font-family: -apple-system, SF UI Text, Arial, PingFang SC, Hiragino Sans GB, Mi
 }
 
 .footer-meta {
-    font-family: -apple-system, SF UI Text, Arial, PingFang SC, Hiragino Sans GB, Microsoft YaHei, WenQuanYi Micro Hei, sans-serif;
     padding: 50px 0 0;
     list-style: none;
     font-size: 1.3em;
