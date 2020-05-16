@@ -2,8 +2,7 @@
 layout: blog
 istop: true
 title: "Hello and Happy Pride"
-background-image: /assets/images/LGBTHackVoice.jpg
-date:  2020-05-16
+background-image: /assets/images/Sandwick.JPG
 category: English
 tags:
 - English
