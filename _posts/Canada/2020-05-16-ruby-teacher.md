@@ -4,7 +4,7 @@ istop: true
 title: "Ruby - Teacher"
 background-image: /assets/images/ruby-teacher.jpg
 date:  2020-03-07
-category: Germany
+category: Canada
 tags:
 - Deutsch
 - work
