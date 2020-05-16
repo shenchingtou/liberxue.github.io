@@ -26,8 +26,8 @@ links:
   - name:         Tags
     url:          /tags
     external:     false
-  - name:         About
-    url:          /about
+  - name:         Submit
+    url:          /submit
     external:     false
 # ------------ CONFIGURABLE END ------------
 
