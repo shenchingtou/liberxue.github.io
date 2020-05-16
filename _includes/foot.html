@@ -14,21 +14,23 @@
                 <div class="meta-copyright-info">
                     <div class="info-text">
                         <p>Theme is based off <a href="http://www.liberxue.com/2017/08/03/Jekyllthemes.html" title="liberxue主题"  data-hover="Jekyll liberxue"target="_blank">Jekyll liberxue</a></p>
-                        <p>Powered by Jekyll</p>
                     </div>
                 </div>
             </div>
             <div class="meta-item meta-posts">
                 <h3 class="meta-title">Latest</h3>
-     <!--置顶-->
-    {% for post in site.posts limit:5 %}
-      {% if post.istop %}
-      <li><a href="{{ post.url }}" title="{{ post.title }}" data-hover="{{ post.title }}">{{ post.title }}</a></li>
-      {% endif %}
-    {% endfor %}
+                {% for post in site.posts limit:5 %}
+                        {% if post.istop %}
+                        <li><a href="{{ post.url }}" title="{{ post.title }}" data-hover="{{ post.title }}">{{ post.title }}</a></li>
+                        {% endif %}
+                {% endfor %}
             </div>
+        </div>
     </div>
 </footer>
+
+
+
 <script src="//cdn.bootcss.com/jquery/2.2.2/jquery.min.js"></script>
 <script src="//cdn.bootcss.com/bootstrap-3-typeahead/4.0.2/bootstrap3-typeahead.js"></script>
 <script src="/search/js/cb-search.js"></script>
