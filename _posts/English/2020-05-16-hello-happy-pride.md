@@ -1,7 +1,7 @@
 ---
 layout: blog
 istop: true
-title: "You're not alone"
+title: "Hello and Happy Pride"
 background-image: /assets/images/LGBTHackVoice.jpg
 date:  2020-05-16
 category: English
