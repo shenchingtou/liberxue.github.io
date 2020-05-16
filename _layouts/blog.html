@@ -14,25 +14,24 @@
 <div class="post-header-thumb bg-white}">
 	<div class="post-header-thumb">
 		<div class="post-header-thumb-container">
-    <h1 class="post-title" itemprop="name headline">
-	{{ page.title }}</h1>
-		 <div class="post-data">  
-	 <time datetime="{{ page.date | date: '%F'}}" itemprop="datePublished">Published：{{ page.date | date: "%F"}}</time>
-     <a href="/tags#{{ page.category }}" title="{{ page.category }}" data-hover="category: {{ page.category }}">Category: {{ page.category }}</a>
+      <h1 class="post-title" itemprop="name headline">{{ page.title }}</h1>
+		  <div class="post-data">  
+	       <time datetime="{{ page.date | date: '%F'}}" itemprop="datePublished">Published：{{ page.date | date: "%F"}}</time>
+         <a href="/tags#{{ page.category }}" title="{{ page.category }}" data-hover="category: {{ page.category }}">Category: {{ page.category }}</a>
 			</div>
-            <div class="post-tags">
-                {% unless page.tags == empty %}
-      {% assign tags_list = page.tags %}
-      {% if tags_list.first[0] == null %}
-      {% for tag in tags_list %} 
-          <a href="/tags#{{ tag }}" title="访问{{ tag }}" data-hover="{{ tag }}">
+      <div class="post-tags">
+      {% unless page.tags == empty %}
+        {% assign tags_list = page.tags %}
+          {% if tags_list.first[0] == null %}
+            {% for tag in tags_list %} 
+              <a href="/tags#{{ tag }}" title="{{ tag }}" data-hover="{{ tag }}">
           {{ tag }} <span>({{ site.tags[tag].size }})</span>
           {% unless forloop.last %}{% endunless %}
 </a>
       {% endfor %}
       {% else %}
       {% for tag in tags_list %} 
-          <a href="/tags#{{ tag[0] }}" title="访问 {{ tag[0] }}" data-hover="{{tag[0]}}">
+          <a href="/tags#{{ tag[0] }}" title="{{ tag[0] }}" data-hover="{{tag[0]}}">
             {{ tag[0] }} <span>({{ tag[1].size }})</span>
             {% unless forloop.last %}{% endunless %}
           </a>
