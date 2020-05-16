@@ -1228,6 +1228,7 @@ pre code::after {
 }
 
 .post-title {
+    font-family: -apple-system, SF UI Text, Arial, PingFang SC, Hiragino Sans GB, Microsoft YaHei, WenQuanYi Micro Hei, sans-serif;
     font-size: 21px;
 }
 
