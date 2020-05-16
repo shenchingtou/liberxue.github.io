@@ -4,7 +4,7 @@ istop: true
 title: "Ruby - Teacher"
 background-image: /assets/images/ruby-teacher.jpg
 date:  2020-05-16
-category: Canada
+category: 普通話
 tags:
 - 中文
 ---
