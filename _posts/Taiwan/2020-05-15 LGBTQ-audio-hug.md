@@ -3,8 +3,8 @@ layout: blog
 istop: true
 title: "A queer love message"
 background-image: https://thecupandtheroad.files.wordpress.com/2018/11/web-migrants-pride-hk-2018-1469.jpg
-date:  2020-04-16 23:45:56
-category: Anywhere
+date:  2020-05-15 23:45:56
+category: Taiwan
 tags:
 - Chinese
 - 日本語
