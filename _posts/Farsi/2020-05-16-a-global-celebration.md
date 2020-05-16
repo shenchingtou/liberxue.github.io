@@ -2,7 +2,7 @@
 layout: blog
 istop: true
 title: "A global celebration"
-background-image: /assets/images/rainbow.jpg
+background-image: /assets/images/rainbow.jpeg
 date:  2020-05-16
 category: Farsi
 tags:
