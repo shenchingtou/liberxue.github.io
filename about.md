@@ -1,6 +1,6 @@
 ---
 layout: blog
-title: "About Pride Polyphony"£
+title: "About Pride Polyphony"
 description: "Creating a rainbow of audio hugs for everyone"
 data: 2020-05-05 09:19:11
 tags: 
@@ -9,6 +9,9 @@ redirect_from:
 ---
 
 ## PRIDE POLYPHONY: ABOUT & FAQ
+
+
+![](https://i.imgur.com/6gd0j5V.png)
 
 **What is the Pride Polyphony?**
 The Pride Polyphony is a collection of audio messages expressing support and solidarity, from and to the LGBTQ community worldwide. 
