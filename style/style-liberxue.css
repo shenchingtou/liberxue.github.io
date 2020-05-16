@@ -286,21 +286,6 @@ input:-ms-input-placeholder, textarea:-ms-input-placeholder {
     color: #5f5f5f;
 }
 
-footer {
-    font-family: -apple-system, SF UI Text, Arial, PingFang SC, Hiragino Sans GB, Microsoft YaHei, WenQuanYi Micro Hei, sans-serif;
-    font-size: 14px;
-    line-height: 1.8;
-    margin: 0 auto;
-    color: #313131;
-    text-rendering: geometricPrecision;
-    -webkit-font-smoothing: antialiased;
-    -webkit-user-select: none;
-    -ms-user-select: none;
-    -moz-user-select: none;
-    -khtml-user-select: none;
-    user-select: none;
-    -moz-osx-font-smoothing: grayscale;
-}
 
 /* ==========================================================================
    #public
@@ -1250,6 +1235,7 @@ pre code::after {
 }
 
 .post-data, .post-data a {
+    font-family: -apple-system, SF UI Text, Arial, PingFang SC, Hiragino Sans GB, Microsoft YaHei, WenQuanYi Micro Hei, sans-serif;
     font-size: 13px;
     color: #5f5f5f;
     margin: 7px 15px 0 0;
