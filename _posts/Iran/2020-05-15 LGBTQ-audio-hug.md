@@ -9,9 +9,6 @@ tags:
 - Chinese
 - 日本語
 - 한국어
-- ខ្មែរ
-- ខ្មែរ
-- ગે
 ---
 
 # Please record a 10-60 second message
