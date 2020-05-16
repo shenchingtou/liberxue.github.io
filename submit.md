@@ -1,6 +1,6 @@
 ---
 layout: blog
-title: Add your voice
+title: "Add your voice"
 description: "Add your voice to the global LGBTQ community"
 data: 2020-05-05 09:19:11
 tags: 
@@ -8,7 +8,7 @@ redirect_from:
   - /submit/
 ---
 
-# SHARE YOUR MESSAGE
+## SHARE YOUR MESSAGE
 
 As well as being a place for listening, we want this website to give LGBTQ people the opportunity to share their Pride messages and express their thoughts to others. 
 
