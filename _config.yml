@@ -4,7 +4,7 @@ description:      "A project for the Uhlala Pride Hackathon"
 url:              https://liberxue.github.io # 域名
 signoff:          "Shenchingtou" # Your name
 facebook_appid:   #liberxue
-google_analytics: UA-101222464-1
+google_analytics: UA-56530919-4
 share:            true 
 # 分页
 paginate: 15
