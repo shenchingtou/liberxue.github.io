@@ -2,6 +2,7 @@
 /* ==========================================================================
    #reset
    ========================================================================== */
+
 * {
     -webkit-box-sizing: border-box;
     -moz-box-sizing: border-box;
@@ -20,6 +21,7 @@
 }
 
 html {
+    font-family: -apple-system, SF UI Text, Arial, PingFang SC, Hiragino Sans GB, Microsoft YaHei, WenQuanYi Micro Hei, sans-serif;
     overflow-x: hidden;
     -ms-text-size-adjust: 100%;
     -webkit-text-size-adjust: 100%;
@@ -75,26 +77,31 @@ h1 tt, h1 code, h2 tt, h2 code, h3 tt, h3 code, h4 tt, h4 code, h5 tt, h5 code, 
 }
 
 h1 {
+    font-family: -apple-system, SF UI Text, Arial, PingFang SC, Hiragino Sans GB, Microsoft YaHei, WenQuanYi Micro Hei, sans-serif;
     font-size: 1.4em;
     color: #6f7477;
 }
 
 h2 {
+    font-family: -apple-system, SF UI Text, Arial, PingFang SC, Hiragino Sans GB, Microsoft YaHei, WenQuanYi Micro Hei, sans-serif;
     font-size: 1.3em;
     color: #6F7484;
 }
 
 h3 {
+    font-family: -apple-system, SF UI Text, Arial, PingFang SC, Hiragino Sans GB, Microsoft YaHei, WenQuanYi Micro Hei, sans-serif;
     font-size: 1.2em;
     color: #333;
 }
 
 h4 {
+    font-family: -apple-system, SF UI Text, Arial, PingFang SC, Hiragino Sans GB, Microsoft YaHei, WenQuanYi Micro Hei, sans-serif;
     font-size: 1.1em;
     color: #444;
 }
 
 h5 {
+    font-family: -apple-system, SF UI Text, Arial, PingFang SC, Hiragino Sans GB, Microsoft YaHei, WenQuanYi Micro Hei, sans-serif;
     font-size: 1.0em;
     color: #555;
 }
@@ -1858,16 +1865,19 @@ pre code::after {
 }
 
 .footer-social {
+    font-family: -apple-system, SF UI Text, Arial, PingFang SC, Hiragino Sans GB, Microsoft YaHei, WenQuanYi Micro Hei, sans-serif;
     border-bottom: 1px solid rgba(184, 197, 214, .2);
     box-shadow: 0 -2px 8px 0 rgba(239, 241, 243, 0.59);
 }
 
 .footer-social .footer-container {
+    font-family: -apple-system, SF UI Text, Arial, PingFang SC, Hiragino Sans GB, Microsoft YaHei, WenQuanYi Micro Hei, sans-serif;
     max-width: 940px;
     margin: 0 auto;
 }
 
 .footer-social .social-list {
+    font-family: -apple-system, SF UI Text, Arial, PingFang SC, Hiragino Sans GB, Microsoft YaHei, WenQuanYi Micro Hei, sans-serif;
     padding: 20px;
     text-align: center;
     font-size: 1.3em;
@@ -1875,6 +1885,7 @@ pre code::after {
 }
 
 .footer-social .social-list a {
+    font-family: -apple-system, SF UI Text, Arial, PingFang SC, Hiragino Sans GB, Microsoft YaHei, WenQuanYi Micro Hei, sans-serif;
     font-size: 13px;
     padding: 0 25px;
     text-decoration: none;
@@ -1896,6 +1907,7 @@ pre code::after {
 }
 
 .footer-meta .meta-item {
+    font-family: -apple-system, SF UI Text, Arial, PingFang SC, Hiragino Sans GB, Microsoft YaHei, WenQuanYi Micro Hei, sans-serif;
     position: relative;
     float: left;
     width: 33.3333333%;
@@ -1920,6 +1932,7 @@ pre code::after {
 }
 
 .footer-meta .meta-title {
+    font-family: -apple-system, SF UI Text, Arial, PingFang SC, Hiragino Sans GB, Microsoft YaHei, WenQuanYi Micro Hei, sans-serif;
     font-size: 14px;
     padding: 0 0 10px 0;
     text-decoration: none;
@@ -2156,6 +2169,7 @@ pre code::after {
     }
 
     .post-page .post-header {
+
         display: inherit;
     }
 
