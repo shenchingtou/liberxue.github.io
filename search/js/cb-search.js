@@ -1,8 +1,8 @@
  $(document).ready(function () {
         var time1 = 0;
         var show = false;
-        var names = new Array(); //文章名字等
-        var urls = new Array(); //文章地址
+        var names = new Array(); //Title or Names
+        var urls = new Array(); //URL
         $(document).keyup(function (e) {
             var time2 = new Date().getTime();
             if (e.keyCode == 17) {
