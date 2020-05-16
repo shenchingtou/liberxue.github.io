@@ -12,13 +12,12 @@
   {% include nav.html %}
 </header>
 <div class="post-header-thumb bg-white}">
-	<div class="post-header-thumb-op"></div>
 	<div class="post-header-thumb">
 		<div class="post-header-thumb-container">
     <h1 class="post-title" itemprop="name headline">
 	{{ page.title }}</h1>
 		 <div class="post-data">  
-	 <time datetime="{{ page.date | date: '%F %H:%M'}}" itemprop="datePublished">Published：{{ page.date | date: "%F %H"}}</time>
+	 <time datetime="{{ page.date | date: '%F'}}" itemprop="datePublished">Published：{{ page.date | date: "%F"}}</time>
      <a href="/tags#{{ page.category }}" title="{{ page.category }}" data-hover="category: {{ page.category }}">Category: {{ page.category }}</a>
 			</div>
             <div class="post-tags">
