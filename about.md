@@ -1,8 +1,10 @@
 ---
 layout: blog
+istop: true
 title: "About Pride Polyphony"
 description: "Creating a rainbow of audio hugs for everyone"
-data: 2020-05-05 09:19:11
+background-image: /assets/images/glitter.jpg
+date: 2020-05-05 09:19:11
 tags: 
 redirect_from:
   - /about/
