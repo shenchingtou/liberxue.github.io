@@ -3,7 +3,7 @@ layout: blog
 istop: true
 title: "Kindness - by Naomi Shihab Nye: It is only kindness that makes sense anymore"
 background-image: /assets/images/Kindness-Naom-Shihab-Nye.jpg
-date:  2020-05-1y
+date:  2020-05-17
 category: English
 tags: 
 - Poem
