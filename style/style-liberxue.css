@@ -1876,15 +1876,14 @@ pre code::after {
 }
 
 .footer-social .social-list {
-    font-family: -apple-system, SF UI Text, Arial, PingFang SC, Hiragino Sans GB, Microsoft YaHei, WenQuanYi Micro Hei, sans-serif;
+    font-family: "-apple-system, SF UI Text, Arial, PingFang SC, Hiragino Sans GB, Microsoft YaHei, WenQuanYi Micro Hei," sans-serif;
     padding: 20px;
     text-align: center;
     font-size: 1.3em;
-    font-family: "Abril Fatface", serif;
 }
 
 .footer-social .social-list a {
-    font-family: -apple-system, SF UI Text, Arial, PingFang SC, Hiragino Sans GB, Microsoft YaHei, WenQuanYi Micro Hei, sans-serif;
+    font-family: "-apple-system, SF UI Text, Arial, PingFang SC, Hiragino Sans GB, Microsoft YaHei, WenQuanYi Micro Hei," sans-serif;
     font-size: 13px;
     padding: 0 25px;
     text-decoration: none;
@@ -1895,7 +1894,6 @@ pre code::after {
     padding: 50px 0 0;
     list-style: none;
     font-size: 1.3em;
-    font-family: "Abril Fatface", serif;
 }
 
 .footer-meta .footer-container {
@@ -1906,7 +1904,6 @@ pre code::after {
 }
 
 .footer-meta .meta-item {
-    font-family: -apple-system, SF UI Text, Arial, PingFang SC, Hiragino Sans GB, Microsoft YaHei, WenQuanYi Micro Hei, sans-serif;
     position: relative;
     float: left;
     width: 33.3333333%;
