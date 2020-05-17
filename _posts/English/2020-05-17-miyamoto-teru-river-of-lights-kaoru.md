@@ -15,18 +15,6 @@ tags:
 
 This is an excerpt from the story [River of Lights (道頓堀川) by Miyamoto Teru](https://www.goodreads.com/en/book/show/32492090-rivers), originally published in 1978 and translated by Roger Thomas in 2014.
 
-**Here are some photos to help set the scene**
-
-A typically crammed little street.
-![](https://i.imgur.com/JJLHK4Y.jpg)
-
-A similarly nostalgic cafe.
-![](https://i.imgur.com/SJYU7wY.jpg)
-
-Flowers are a thing
-![](https://i.imgur.com/6D1Uh1S.jpg)
-
-
 The setting is roughly 1960s/1970s Osaka in the Dotonbori District. It is inside a cafe called River, beside the Dotonbori River, owned by a former underground champion billiards player. In it are the owner, his part-time university student staff, the owner of another business (London), a drag queen, and another young woman. 
 
 > "Oh, that dog? When I came into the shop, I saw him trotting along in front of the Kado Theatre. I just caught a glimpse, so I don't know for sure, but I think it probably had three legs," Kaoru the drag queen said as he sat in the counter drinking coffee. Though he always wore western clothing, today he was in a light pink kimono and a Japanese-style wig, which was unusual for him. Both his nail polish and his small, beaded handbag matched the color of the kimono.
