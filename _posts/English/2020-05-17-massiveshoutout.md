@@ -1,7 +1,7 @@
 ---
 layout: blog
 istop: true
-title: "Kindness - by Naomi Shihab Nye: It is only kindness that makes sense anymore"
+title: "Massive shoutout"
 background-image: /assets/images/shoutout.jpg
 date:  2020-05-17
 category: English
