@@ -47,14 +47,7 @@
 </script>
 
 {% endif %}
-<!-- Facebook app ID-->
-{% if site.facebook_appid %}
-<meta content="{{ site.facebook_appid }}" property="fb:app_id" />
-<script>(function(d, s, id) {
-  var js, fjs = d.getElementsByTagName(s)[0];
-  if (d.getElementById(id)) return;
-  js = d.createElement(s); js.id = id;
-  js.src = "//connect.facebook.net/en_GB/all.js#xfbml=1&appId={{ site.facebook_appid }}";
-  fjs.parentNode.insertBefore(js, fjs);
-}(document, 'script', 'facebook-jssdk'));</script>
-{% endif %}
+
+<!-- Buy Me a Coffee Widget -->
+
+<script data-name="BMC-Widget" src="https://cdnjs.buymeacoffee.com/1.0.0/widget.prod.min.js" data-id="athena" data-description="Keep these audio hugs alive" data-message="Thanks for supporting our hosting & site maintenance!" data-color="#BD5FFF" data-position="right" data-x_margin="18" data-y_margin="18"></script>
