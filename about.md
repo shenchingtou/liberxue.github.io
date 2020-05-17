@@ -33,14 +33,25 @@ The form for submissions is here: [https://form.jotform.com/201356271318046](htt
 We started as a group of three LGBTQ people who came up with the idea and brought it to life as part of the Digital Pride Hackathon: (names and info).
 
 **How can I support the Pride Polyphony?**
-We appreciate all donations that help us keep the site running and continue to share people’s voices! You can contribute to covering our costs here: (LINK). We don’t make any money from this site and want to keep it a non-commercial, community space.
+We appreciate all donations that help us keep the site running and continue to share people’s voices! 
+
+You can contribute with by clicking on this quick button:
+
+<center><a href="https://www.buymeacoffee.com/athena" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-violet.png" alt="Buy Me A Coffee" style="height: 51px !important;width: 217px !important;" ></a></center>
+
+
+This project is a non-commercial, community space. The contributions that you make would go to:
+- [Annual domain name registration](https://www.namecheap.com/) ~10€
+- [More dev accounts for](https://www.netlify.com/pricing/) ~15€/month/additional user
+- [Unlimited storage space for Podbean hosting](https://www.podbean.com/podcast-hosting-pricing) ~$9/month (currently on free plan with capped storage)
+- Our time receiving files, uploading them, and generating entries
 
 There are so many ways you can help LGBTQ communities more generally, depending on your time, location and resources! Please consider making a donation to the amazing LGBTQ-friendly non-profits and charities below, working, campaigning or volunteering your time to improve the world for LGBTQ people - and more generally, support the LGBTQ people in your life. 
 
 List of organisations working to support LGBT+ people worldwide:
 
-https://www.stonewall.org.uk/
-https://www.lgbtyouth.org.uk/
+- https://www.stonewall.org.uk/
+- https://www.lgbtyouth.org.uk/
 https://mermaidsuk.org.uk/
 https://allout.org/
 https://lgbt.ie/
