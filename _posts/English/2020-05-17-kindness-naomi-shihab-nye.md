@@ -8,6 +8,7 @@ category: English
 tags: 
 - Poem
 - English
+- Ally
 ---
 
 [Kindness](https://poets.org/poem/kindness)
