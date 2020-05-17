@@ -4,7 +4,7 @@ istop: true
 title: "(Pagkawala) Being lost, being free"
 background-image: /assets/images/glitter.jpg
 date:  2020-05-16
-category: 
+category: Tagalog
 tags: 
 - Tagalog
 - Ally
