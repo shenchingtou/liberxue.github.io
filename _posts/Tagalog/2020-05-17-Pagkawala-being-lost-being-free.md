@@ -26,4 +26,4 @@ Mahalaga ang buhay mo, kung sino ka man o ano mang nagawa mo.
 
 Minsan ka naring nalito, nawala, katulad ngayon. Naghahanap ka na naman ng kahulugan sa mga nangyayari. Maaring kang masaktan, magalit, o mawala pero babalik at babalik din sa kung sino kang talaga. Ang totoong tao pagkatapos ng pagkawala. Pagkawala na pagkalito at unti unting kakawala na paglipad.
 
-<https://drive.google.com/open?id=1MvkPHnbUCh56Z7UV1aCsJUcDpPYki0RR></iframe>
+<iframe title="(Pagkawala) Being lost, being free" height="400" width="400" style="border: none;" scrolling="no" data-name="pb-iframe-player" src="https://www.podbean.com/media/player/ju6m4-dcae65?from=yiiadmin&download=1&version=1&vjs=1&skin=1&auto=0&share=1&fonts=Helvetica&download=1&rtl=0&pbad=1"></iframe>
