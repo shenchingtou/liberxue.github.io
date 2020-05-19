@@ -1,9 +1,8 @@
 # ----------- CONFIGURABLE START -----------
 title:            "Pride Polyphony"
 description:      "A project for the Uhlala Pride Hackathon"
-url:              https://liberxue.github.io # 域名
+url:              https://shenchingtou.github.io/polyphon_jekyll
 signoff:          "Shenchingtou" # Your name
-facebook_appid:   #liberxue
 google_analytics: UA-56530919-4
 share:            true 
 # 分页
